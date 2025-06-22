@@ -29,9 +29,9 @@ A beautifully animated analog clock with multiple stylish themes — fully respo
 ---
 
 ## 📦 Analog-Clock/
-├── index.html      # HTML structure
-├── style.css       # Theme styles, responsiveness, clock design
-└── script.js       # Time logic, rotation, and theme toggle
+- ├── index.html      # HTML structure
+- ├── style.css       # Theme styles, responsiveness, clock design
+- └── script.js       # Time logic, rotation, and theme toggle
 
 ---
 
